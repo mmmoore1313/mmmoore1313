@@ -1,6 +1,8 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/MattMoore"><img src="https://github.com/mmmoore1313/mmmoore1313/blob/main/devcard.svg" width="400" alt="Matthew M Moore's Dev Card"/></a>
+
 <!--
+<a href="https://app.daily.dev/MattMoore"><img src="https://github.com/mmmoore1313/mmmoore1313/blob/main/devcard.svg" width="400" alt="Matthew M Moore's Dev Card"/></a>
+
 **mmmoore1313/mmmoore1313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
